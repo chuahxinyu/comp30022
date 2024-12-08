@@ -27,7 +27,7 @@
     "bcrypt": "^5.1.0",
     "jest-mock-extended": "^3.0.5",
     "moment": "^2.29.4",
-    "next": "^13.4.2",
+    "next": "^13.5.0",
     "next-auth": "^4.22.1",
     "nodemailer": "^6.9.5",
     "pusher": "^5.1.3",
